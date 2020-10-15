@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2019.12.25)  16 OCT 2020 01:40
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2019.12.25)  16 OCT 2020 02:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -175,52 +175,34 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 36.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 36.
-
-LaTeX Warning: Citation `example2' on page 1 undefined on input line 43.
-
 File: diagram_VectorModulation.png Graphic file (type bmp)
 <diagram_VectorModulation.png>
 (./resume.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 9.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 10.
+(Font)              scaled to size 6.72699pt on input line 9.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 10.
+(Font)              scaled to size 4.805pt on input line 9.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
-[]\OT1/cmr/m/n/10 Osamu Naka-mura, Hi-roaki Hazeyama,
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 4--11
-\OT1/cmr/m/n/10 pur-pose tld to re-solve ipv4 ad-dress lit-eral
- []
-
-
-Underfull \hbox (badness 3590) in paragraph at lines 4--11
-\OT1/cmr/m/n/10 on dns64/nat64 en-vi-ron-ments.  Internet-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
 \OT1/cmr/m/n/10 Draft draft-osamu-v6ops-ipv4-literal-in-
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 4--11
+Underfull \hbox (badness 5681) in paragraph at lines 4--10
 \OT1/cmr/m/n/10 url-02, IETF Sec-re-tariat, Oc-to-ber 2014.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
 \OT1/cmtt/m/n/10 http : / / www . ietf . org / internet-[]drafts /
  []
 
 
-Overfull \hbox (15.90796pt too wide) in paragraph at lines 4--11
+Overfull \hbox (15.90796pt too wide) in paragraph at lines 4--10
 \OT1/cmtt/m/n/10 draft-[]osamu-[]v6ops-[]ipv4-[]literal-[]in-[]url-[]02 .
  []
 
@@ -229,9 +211,6 @@ Overfull \hbox (15.90796pt too wide) in paragraph at lines 4--11
 
 
 ] (out/resume.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -245,4 +224,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  25i,7n,21p,236b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/resume.dvi (1 page, 1848 bytes).
+Output written on out/resume.dvi (1 page, 1608 bytes).
